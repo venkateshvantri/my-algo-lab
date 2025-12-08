@@ -53,6 +53,7 @@ print(result)
 '''
 
 30. Substring with Concatenation of All Words
+Medium
 
 You are given a string s and an array of strings words. All the strings of words are of the same length.
 
@@ -106,6 +107,5 @@ s and words[i] consist of lowercase English letters.
 ************************************************************************************************************************************************************
 
 Approach:
-
 
 '''
